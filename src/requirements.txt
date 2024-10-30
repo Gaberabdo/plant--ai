@@ -1,0 +1,9 @@
+
+numpy
+matplotlib
+flask
+seaborn
+gunicorn
+flask-cors
+pyfcm
+python-decouple
